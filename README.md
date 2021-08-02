@@ -1,6 +1,12 @@
+# myapp
+Download the dependence 
+
+#link of working project video
+- [Youtube Video](https://youtu.be/v7dvstAvbLs)
+
 # chatsc
 
-A new Flutter project.
+Flutter ChatScreen UI
 
 ## Getting Started
 
